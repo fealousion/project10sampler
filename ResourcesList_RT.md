@@ -1,0 +1,11 @@
+ic_img_back.png
+ic_img_close.png
+ic_img_docs.png
+ic_img_down.png
+ic_img_gimaek.png
+ic_img_internet.png
+ic_img_navi.png
+ic_img_restart.png
+ic_img_rt.png
+ic_img_setting.png
+ic_img_sms.png
