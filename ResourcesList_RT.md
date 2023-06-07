@@ -9,3 +9,6 @@ ic_img_restart.png
 ic_img_rt.png
 ic_img_setting.png
 ic_img_sms.png
+fail.wav
+micend.wav
+ptt.wav
