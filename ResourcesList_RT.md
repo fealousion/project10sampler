@@ -9,6 +9,15 @@ ic_img_restart.png
 ic_img_rt.png
 ic_img_setting.png
 ic_img_sms.png
+alert.png
+close.png
+database_no.png
+database.png
+drivers.png
+endcall.png
+gps_no.png
+gps.png
+remiconradio_icon.png
 fail.wav
 micend.wav
 ptt.wav
